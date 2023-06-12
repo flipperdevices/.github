@@ -1,4 +1,10 @@
-# Projects
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/profile/dark_theme_banner.png">
+    <source media="(prefers-color-scheme: light)" srcset="/profile/light_theme_banner.png">
+    <img
+        alt="A pixel art of a Dophin with text: Flipper Devices"
+        src="/profile/light_theme_banner.png">
+</picture>
 
 ## Flipper and Modules
 
@@ -25,7 +31,3 @@
 - [STM32WB COPRO](https://github.com/flipperdevices/stm32wb_copro) - Compact version of STM WPAN library
 - [STM32WB COPRO Scripts](https://github.com/flipperdevices/stm32wb_copro_scripts) - Helper scripts for `stm32wb_copro`
 - [GCC MAP file parser](https://github.com/flipperdevices/map-gcc-parser-python) - Thing that helps us analyze firmware growth
-
-# Other
-
-More projects can be found here: https://github.com/orgs/flipperdevices/repositories
