@@ -9,6 +9,7 @@
 ## Flipper and Modules
 
 - [Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware)
+- [Flipper Zero Catalog](https://github.com/flipperdevices/flipper-application-catalog)
 - [Flipper Zero 3D Models](https://github.com/flipperdevices/flipperzero-3d-models)
 - [Flipper Zero ST-LINK V3MODS Module](https://github.com/flipperdevices/flipperzero-devboard-stlinkv3)
 - [WiFi Board/Debug Probe Firmware](https://github.com/flipperdevices/blackmagic-esp32-s2)
