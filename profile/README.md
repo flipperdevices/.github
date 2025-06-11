@@ -31,4 +31,6 @@
 - [LibUSB STM32](https://github.com/flipperdevices/libusb_stm32) - STM32 USB stack implementation
 - [STM32WB COPRO](https://github.com/flipperdevices/stm32wb_copro) - Compact version of STM WPAN library
 - [STM32WB COPRO Scripts](https://github.com/flipperdevices/stm32wb_copro_scripts) - Helper scripts for `stm32wb_copro`
-- [GCC MAP file parser](https://github.com/flipperdevices/map-gcc-parser-python) - Thing that helps us analyze firmware growth
+- [GCC MAP file parser](https://github.com/flipperdevices/map-gcc-parser-python) - Thing that helps us analyze
+firmware growth
+<s><yes>
