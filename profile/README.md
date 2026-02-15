@@ -6,7 +6,28 @@
         src="/profile/light_theme_banner.png">
 </picture>
 
-## Flipper and Modules
+### Welcome to the official Flipper Devices GitHub  
+
+This is where we publish source code, tools, and resources for Flipper products.
+We’re a team of engineers, designers, artists, researchers, and tech enthusiasts who believe in open source, open technologies, and sharing knowledge with the community.
+
+🛒 Official store & downloads → [flipper.net](https://flipper.net)
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+## Flipper Zero
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/profile/flipper_zero_wb.png">
+    <source media="(prefers-color-scheme: light)" srcset="/profile/flipper_zero_wb.png">
+    <img
+        alt="Black and white drawing of Flipper Zero"
+        src="/profile/flipper_zero_wb.png">
+</picture>
+
+A pocket-size multi-tool for interacting with NFC, RFID, Sub-GHz radio and remote controls, built on low-power STM32.
 
 - [Flipper Zero Firmware](https://github.com/flipperdevices/flipperzero-firmware)
 - [Flipper Zero Apps Catalog](https://github.com/flipperdevices/flipper-application-catalog)
@@ -14,7 +35,7 @@
 - [Flipper Zero ST-LINK V3MODS Module](https://github.com/flipperdevices/flipperzero-devboard-stlinkv3)
 - [WiFi Board/Debug Probe Firmware](https://github.com/flipperdevices/blackmagic-esp32-s2)
 
-## Companion Applications
+## Flipper Zero Companion Applications
 
 - [qFlipper](https://github.com/flipperdevices/qFlipper) - Win/Mac/Lin desktop companion
 - [Flipper Android App](https://github.com/flipperdevices/Flipper-Android-App)
@@ -32,3 +53,61 @@
 - [STM32WB COPRO](https://github.com/flipperdevices/stm32wb_copro) - Compact version of STM WPAN library
 - [STM32WB COPRO Scripts](https://github.com/flipperdevices/stm32wb_copro_scripts) - Helper scripts for `stm32wb_copro`
 - [GCC MAP file parser](https://github.com/flipperdevices/map-gcc-parser-python) - Thing that helps us analyze firmware growth
+
+   </td>
+
+    <td width="50%" valign="top">
+
+## Flipper One
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/profile/flipper_one_wb.png">
+    <source media="(prefers-color-scheme: light)" srcset="/profile/flipper_one_wb.png">
+    <img
+        alt="Black and white drawing of Flipper Zero"
+        src="/profile/flipper_one_wb.png">
+</picture>
+
+Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet, Wi-Fi, 5G, M.2 expansion, local LLM support in a rugged form factor.
+
+
+## How to join development
+
+⚠️ This project is under active development.  Please read this guide before getting started: 
+
+## Linux & Rockchip Software
+
+* [flipperone-linux-build-scripts](https://github.com/flipperdevices/flipperone-linux-build-scripts)
+* [flipper-linux-kernel](https://github.com/flipperdevices/flipper-linux-kernel)
+* [rkloader](https://github.com/flipperdevices/rkloader) + [gofastboot](https://github.com/flipperdevices/gofastboot)
+* [u-boot](https://github.com/flipperdevices/u-boot)
+* [rkbin](https://github.com/flipperdevices/rkbin)
+
+## MCU Firmware
+
+* [flipperone-mcu-firmware](https://github.com/flipperdevices/flipperone-mcu-firmware)
+
+## Hardware & Mechanics
+
+* [flipperone-hardware](https://github.com/flipperdevices/flipperone-hardware)
+* [flipperone-mechanics](https://github.com/flipperdevices/flipperone-mechanics)
+
+## User Interface (UI)
+
+* [flipper-one-ui](https://github.com/flipperdevices/flipper-one-ui)
+
+## FlipCTL
+
+* [flipctl](https://github.com/flipperdevices/flipctl)
+
+## Test & Validation
+
+* [flipperone-tests](https://github.com/flipperdevices/flipperone-tests)
+
+## Docs
+
+* [flipperone-docs](https://github.com/flipperdevices/flipperone-docs)
+
+    </td>
+  </tr>
+</table>

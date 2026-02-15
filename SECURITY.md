@@ -1,3 +1,3 @@
 # Found security issue
 
-Let us know about it at security@flipperdevices.com
+Let us know about it at security@flipper.net
