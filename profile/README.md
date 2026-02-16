@@ -2,7 +2,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="/profile/dark_theme_banner.png">
     <source media="(prefers-color-scheme: light)" srcset="/profile/light_theme_banner.png">
     <img
-        alt="A pixel art of a Dophin with text: Flipper Devices"
+        alt="A pixel art of a Dolphin with text: Flipper Devices"
         src="/profile/light_theme_banner.png">
 </picture>
 
@@ -48,11 +48,11 @@ A pocket-size multi-tool for interacting with NFC, RFID, Sub-GHz radio and remot
 - [Flipper Zero Sample Application](https://github.com/flipperdevices/flipperzero-catalog-sample-app) - Catalog-ready Flipper Application Sample
 - [Flipper Zero ufbt Github Action](https://github.com/flipperdevices/flipperzero-ufbt-action) - CI/CD automation for your flipper apps
 - [Flipper Zero Protobuf Python Bindings](https://github.com/flipperdevices/flipperzero_protobuf_py) - Used for various automation tasks
-- [Flipper Zero Toolchain](https://github.com/flipperdevices/flipperzero-toolchain) - Compiler and all necessary tool to build firmware
+- [Flipper Zero Toolchain](https://github.com/flipperdevices/flipperzero-toolchain) - Compiler and all necessary tools to build firmware
 - [LibUSB STM32](https://github.com/flipperdevices/libusb_stm32) - STM32 USB stack implementation
 - [STM32WB COPRO](https://github.com/flipperdevices/stm32wb_copro) - Compact version of STM WPAN library
 - [STM32WB COPRO Scripts](https://github.com/flipperdevices/stm32wb_copro_scripts) - Helper scripts for `stm32wb_copro`
-- [GCC MAP file parser](https://github.com/flipperdevices/map-gcc-parser-python) - Thing that helps us analyze firmware growth
+- [GCC MAP file parser](https://github.com/flipperdevices/map-gcc-parser-python) - Tool that helps us analyze firmware growth
 
    </td>
 
@@ -64,7 +64,7 @@ A pocket-size multi-tool for interacting with NFC, RFID, Sub-GHz radio and remot
     <source media="(prefers-color-scheme: dark)" srcset="/profile/flipper_one_wb.png">
     <source media="(prefers-color-scheme: light)" srcset="/profile/flipper_one_wb.png">
     <img
-        alt="Black and white drawing of Flipper Zero"
+        alt="Black and white drawing of Flipper One"
         src="/profile/flipper_one_wb.png">
 </picture>
 
@@ -73,7 +73,7 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 
 ## How to join development
 
-⚠️ Flipper One is under active development. Please read the [Develepor Portal guide](https://docs.flipper.net/one) before exploring the repositories.
+⚠️ Flipper One is under active development. Please read the **[Developer Portal](https://docs.flipper.net/one)** before exploring the repositories.
 
 ## Linux & Rockchip Software
 
