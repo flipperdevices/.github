@@ -41,7 +41,7 @@ A pocket-size multi-tool for interacting with NFC, RFID, Sub-GHz radio and remot
 - [Flipper Android App](https://github.com/flipperdevices/Flipper-Android-App)
 - [Flipper IOS App](https://github.com/flipperdevices/Flipper-iOS-App)
 
-## Various libraries and Tools
+## Tools & Libraries
 
 - [Flipper Zero Application Build Tool](https://github.com/flipperdevices/flipperzero-ufbt) - micro Flipper Build Tool, designed for easy flipper application development
 - [Flipper Zero Protobuf Specification](https://github.com/flipperdevices/flipperzero-protobuf) - Flipper RPC message specification
@@ -73,7 +73,7 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 
 ## How to join development
 
-⚠️ This project is under active development.  Please read this guide before getting started: 
+⚠️ Flipper One is under active development. Please read the [Develepor Portal guide](https://docs.flipper.net/one) before exploring the repositories.
 
 ## Linux & Rockchip Software
 
