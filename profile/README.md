@@ -94,7 +94,7 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 
 ## User Interface (UI)
 
-* [flipper-one-ui](https://github.com/flipperdevices/flipper-one-ui)
+* [flipperone-ui](https://github.com/flipperdevices/flipperone-ui)
 
 ## FlipCTL
 
@@ -102,7 +102,7 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 
 ## Test & Validation
 
-* [flipperone-tests](https://github.com/flipperdevices/flipperone-tests)
+* [flipperone-testing](https://github.com/flipperdevices/flipperone-testing)
 
 ## Docs
 
