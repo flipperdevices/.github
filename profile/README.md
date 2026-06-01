@@ -39,14 +39,14 @@ A pocket-size multi-tool for interacting with NFC, RFID, Sub-GHz radio and remot
 
 - [qFlipper](https://github.com/flipperdevices/qFlipper) - Win/Mac/Lin desktop companion
 - [Flipper Android App](https://github.com/flipperdevices/Flipper-Android-App)
-- [Flipper IOS App](https://github.com/flipperdevices/Flipper-iOS-App)
+- [Flipper iOS App](https://github.com/flipperdevices/Flipper-iOS-App)
 
 ## Tools & Libraries
 
-- [Flipper Zero Application Build Tool](https://github.com/flipperdevices/flipperzero-ufbt) - micro Flipper Build Tool, designed for easy flipper application development
+- [Flipper Zero Application Build Tool](https://github.com/flipperdevices/flipperzero-ufbt) - micro Flipper Build Tool, designed for easy Flipper application development
 - [Flipper Zero Protobuf Specification](https://github.com/flipperdevices/flipperzero-protobuf) - Flipper RPC message specification
 - [Flipper Zero Sample Application](https://github.com/flipperdevices/flipperzero-catalog-sample-app) - Catalog-ready Flipper Application Sample
-- [Flipper Zero ufbt Github Action](https://github.com/flipperdevices/flipperzero-ufbt-action) - CI/CD automation for your flipper apps
+- [Flipper Zero ufbt Github Action](https://github.com/flipperdevices/flipperzero-ufbt-action) - CI/CD automation for your Flipper apps
 - [Flipper Zero Protobuf Python Bindings](https://github.com/flipperdevices/flipperzero_protobuf_py) - Used for various automation tasks
 - [Flipper Zero Toolchain](https://github.com/flipperdevices/flipperzero-toolchain) - Compiler and all necessary tools to build firmware
 - [LibUSB STM32](https://github.com/flipperdevices/libusb_stm32) - STM32 USB stack implementation
@@ -79,9 +79,8 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 
 * [flipperone-linux-build-scripts](https://github.com/flipperdevices/flipperone-linux-build-scripts)
 * [flipper-linux-kernel](https://github.com/flipperdevices/flipper-linux-kernel)
-* [rkloader](https://github.com/flipperdevices/rkloader) + [gofastboot](https://github.com/flipperdevices/gofastboot)
 * [u-boot](https://github.com/flipperdevices/u-boot)
-* [rkbin](https://github.com/flipperdevices/rkbin)
+* [rkbin](https://github.com/flipperdevices/rkbin) (Not public)
 
 ## MCU Firmware
 
@@ -98,7 +97,7 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 
 ## FlipCTL
 
-* [flipctl](https://github.com/flipperdevices/flipctl)
+* [flipctl](https://github.com/flipperdevices/flipctl) (Not public)
 
 ## Test & Validation
 
