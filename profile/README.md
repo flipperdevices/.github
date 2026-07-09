@@ -46,7 +46,7 @@ A pocket-size multi-tool for interacting with NFC, RFID, Sub-GHz radio and remot
 - [Flipper Zero Application Build Tool](https://github.com/flipperdevices/flipperzero-ufbt) - micro Flipper Build Tool, designed for easy Flipper application development
 - [Flipper Zero Protobuf Specification](https://github.com/flipperdevices/flipperzero-protobuf) - Flipper RPC message specification
 - [Flipper Zero Sample Application](https://github.com/flipperdevices/flipperzero-catalog-sample-app) - Catalog-ready Flipper Application Sample
-- [Flipper Zero ufbt Github Action](https://github.com/flipperdevices/flipperzero-ufbt-action) - CI/CD automation for your Flipper apps
+- [Flipper Zero ufbt GitHub Action](https://github.com/flipperdevices/flipperzero-ufbt-action) - CI/CD automation for your Flipper apps
 - [Flipper Zero Protobuf Python Bindings](https://github.com/flipperdevices/flipperzero_protobuf_py) - Used for various automation tasks
 - [Flipper Zero Toolchain](https://github.com/flipperdevices/flipperzero-toolchain) - Compiler and all necessary tools to build firmware
 - [LibUSB STM32](https://github.com/flipperdevices/libusb_stm32) - STM32 USB stack implementation
