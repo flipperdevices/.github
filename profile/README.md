@@ -80,7 +80,8 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 * [flipperone-linux-build-scripts](https://github.com/flipperdevices/flipperone-linux-build-scripts)
 * [flipper-linux-kernel](https://github.com/flipperdevices/flipper-linux-kernel)
 * [u-boot](https://github.com/flipperdevices/u-boot)
-* [rkbin](https://github.com/flipperdevices/rkbin)
+* [rockchip-linux](https://github.com/flipperdevices/rockchip-linux)
+* [bsb-protobuf](https://github.com/flipperdevices/bsb-protobuf)
 
 ## MCU Firmware
 
@@ -89,6 +90,7 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 ## Hardware & Mechanics
 
 * [flipperone-hardware](https://github.com/flipperdevices/flipperone-hardware)
+* [flipperone-debug-probe](https://github.com/flipperdevices/flipperone-debug-probe)
 * [flipperone-mechanics](https://github.com/flipperdevices/flipperone-mechanics)
 
 ## User Interface (UI)
@@ -98,6 +100,7 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 ## FlipCTL
 
 * [flipctl](https://github.com/flipperdevices/flipctl)
+* [flipctl-fonts](https://github.com/flipperdevices/flipctl-fonts)
 
 ## Test & Validation
 
