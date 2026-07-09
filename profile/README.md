@@ -46,7 +46,7 @@ A pocket-size multi-tool for interacting with NFC, RFID, Sub-GHz radio and remot
 - [Flipper Zero Application Build Tool](https://github.com/flipperdevices/flipperzero-ufbt) - micro Flipper Build Tool, designed for easy Flipper application development
 - [Flipper Zero Protobuf Specification](https://github.com/flipperdevices/flipperzero-protobuf) - Flipper RPC message specification
 - [Flipper Zero Sample Application](https://github.com/flipperdevices/flipperzero-catalog-sample-app) - Catalog-ready Flipper Application Sample
-- [Flipper Zero ufbt Github Action](https://github.com/flipperdevices/flipperzero-ufbt-action) - CI/CD automation for your Flipper apps
+- [Flipper Zero ufbt GitHub Action](https://github.com/flipperdevices/flipperzero-ufbt-action) - CI/CD automation for your Flipper apps
 - [Flipper Zero Protobuf Python Bindings](https://github.com/flipperdevices/flipperzero_protobuf_py) - Used for various automation tasks
 - [Flipper Zero Toolchain](https://github.com/flipperdevices/flipperzero-toolchain) - Compiler and all necessary tools to build firmware
 - [LibUSB STM32](https://github.com/flipperdevices/libusb_stm32) - STM32 USB stack implementation
@@ -80,7 +80,8 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 * [flipperone-linux-build-scripts](https://github.com/flipperdevices/flipperone-linux-build-scripts)
 * [flipper-linux-kernel](https://github.com/flipperdevices/flipper-linux-kernel)
 * [u-boot](https://github.com/flipperdevices/u-boot)
-* [rkbin](https://github.com/flipperdevices/rkbin)
+* [rockchip-linux](https://github.com/flipperdevices/rockchip-linux)
+* [bsb-protobuf](https://github.com/flipperdevices/bsb-protobuf)
 
 ## MCU Firmware
 
@@ -89,6 +90,7 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 ## Hardware & Mechanics
 
 * [flipperone-hardware](https://github.com/flipperdevices/flipperone-hardware)
+* [flipperone-debug-probe](https://github.com/flipperdevices/flipperone-debug-probe)
 * [flipperone-mechanics](https://github.com/flipperdevices/flipperone-mechanics)
 
 ## User Interface (UI)
@@ -98,6 +100,7 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 ## FlipCTL
 
 * [flipctl](https://github.com/flipperdevices/flipctl)
+* [flipctl-fonts](https://github.com/flipperdevices/flipctl-fonts)
 
 ## Test & Validation
 
