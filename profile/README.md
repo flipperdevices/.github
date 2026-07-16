@@ -81,7 +81,6 @@ Powerful Linux-based computer built on a high-performance ARM CPU, with Ethernet
 * [flipper-linux-kernel](https://github.com/flipperdevices/flipper-linux-kernel)
 * [u-boot](https://github.com/flipperdevices/u-boot)
 * [rockchip-linux](https://github.com/flipperdevices/rockchip-linux)
-* [bsb-protobuf](https://github.com/flipperdevices/bsb-protobuf)
 
 ## MCU Firmware
 
